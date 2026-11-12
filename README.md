@@ -4,7 +4,7 @@ Servidor MCP local (stdio) con cuatro tools que llaman al webhook de Kikes para 
 
 ## Descarga
 
-**[Descargar la última versión](../../releases/latest)**: en la página de esa release, baja el archivo que necesites:
+**[Descargar la última versión](/releases/kikes-mcp-server-1.5.0.mcpb)**: en la página de esa release, baja el archivo que necesites:
 
 - `kikes-mcp-server-<versión>.mcpb`: extensión para Claude Desktop (recomendada; se instala con doble clic).
 - `kikes-mcp-server-<versión>.tgz`: paquete npm, para instalación manual.
